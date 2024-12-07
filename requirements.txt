@@ -1,0 +1,3 @@
+flask
+flask-marshmallow
+mysql-connector-python
